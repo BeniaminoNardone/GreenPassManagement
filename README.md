@@ -14,3 +14,5 @@ Inoltre, il ClientT può invalidare o ripristinare la validità di un Green
 Pass comunicando al ServerG il contagio o la guarigione di una
 persona attraverso il codice della tessera sanitaria. Infine, il ServerG
 comunica con il ServerV per invalidare o ripristinare il Green Pass.
+
+Link alla relazione completa: https://github.com/BeniaminoNardone/GreenPassManagement/blob/f5219aef93554ec280734104ed45e851099f43be/Relazione_Reti_Madonna_Mazza_Nardone.pdf
